@@ -1,0 +1,3 @@
+-- V2: create airquality tables
+-- ...existing migration ...
+
